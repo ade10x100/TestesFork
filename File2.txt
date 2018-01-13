@@ -1,1 +1,2 @@
-Melhorado o texto como conteúdo solicitado no arquivo 2.
+Arquivo de teste 2.
+Novo conteúdo.
